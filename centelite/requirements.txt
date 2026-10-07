@@ -1,0 +1,6 @@
+streamlit
+networkx
+matplotlib
+requests
+beautifulsoup4
+openpyxl
